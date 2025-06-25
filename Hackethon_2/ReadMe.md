@@ -1,5 +1,6 @@
 
 1. About Dataset
+   
   The National Health and Nutrition Examination Survey (NHANES) is a nationally representative health study conducted by the CDC’s National Center for Health Statistics. 
   It uniquely combines interviews, physical exams, and lab tests to assess the health and nutritional status of U.S. children and adults. 
   This dataset is a subset, focused part of the NHANES study by CDC, which looks at health and nutrition trends in the U.S. 
@@ -10,7 +11,9 @@
  
 
 *  This Hackathon is in collaboration with by Consulting and Analytics Club, IIT Guwahati for Summer Analytics 2025. *
+  
 2. About data:
+   
   The data contains two files: train.csv and test.csv
 
      train.csv - which contains the training set observations. 2,016 rows, which have the target variable (age_group) values as well for training the model.
@@ -24,14 +27,16 @@
   Respondents 65 years old and older were labeled as “Senior” and all individuals under 65 years old as “Adult”. 
 
   Make sure to mark Adult as 0 and Senior as 1. This is important. Look at sample submission file, it accepts only 0 or 1. 
+  
+  3. Target Variable Classes:
 
-3. Target Variable Classes:
   age_group: Adult - 0
-
+  
   age_group: Senior - 1
 
 
-3.Features:
+4. Features:
+   
   The dataset contains the following features:
 
   SEQN: Sequence number (identifier)
