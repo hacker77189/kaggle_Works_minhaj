@@ -88,13 +88,5 @@ You are free to apply:
 - Time-series feature engineering (e.g., seasonal trends, derivatives, peaks)
 - Statistical imputation for missing values
 
----
 
-## 📬 Contact
 
-For collaboration, questions, or suggestions:
-
-**Minhaj Alam**  
-[GitHub](https://github.com/hacker77189) | [Email](mailto:your-email@example.com)
-
----
